@@ -1,1 +1,15 @@
+[
+  { "id": "inicio", "titulo": "Inicio", "icono": "BookOpen", "descripcion": "Descripción general del sistema" },
+  { "id": "modulos", "titulo": "Módulos del Sistema", "icono": "Package", "descripcion": "Cotizaciones, vouchers, paquetes, actividades, clientes, proveedores, vuelos y configuración" },
+  { "id": "entidades", "titulo": "Estructura de Datos", "icono": "Database", "descripcion": "Entidades principales, de configuración y soporte" },
+  { "id": "funcionalidades", "titulo": "Funcionalidades", "icono": "Zap", "descripcion": "Metas mensuales y gestión de vuelos" },
+  { "id": "backend", "titulo": "Funciones Backend", "icono": "Code", "descripcion": "Vista pública, correos y mantenimiento" },
+  { "id": "api", "titulo": "API Externa", "icono": "Globe", "descripcion": "Endpoint validarCotizacionPublica, schemas y ejemplos" },
+  { "id": "limites", "titulo": "Límites y Restricciones", "icono": "AlertTriangle", "descripcion": "Formatos estrictos, monedas y operaciones no permitidas" },
+  { "id": "procedimientos", "titulo": "Guías de Administración", "icono": "Settings", "descripcion": "Usuarios, configuración y mantenimiento" },
+  { "id": "notificaciones", "titulo": "Notificaciones y Recordatorios", "icono": "Bell", "descripcion": "Sistema de notificaciones y automáticas" },
+  { "id": "tecnicos", "titulo": "Detalles Técnicos", "icono": "Code", "descripcion": "Stack tecnológico, arquitectura y patrones" },
+  { "id": "condiciones-alcances", "titulo": "Condiciones de Uso y Alcances", "icono": "CheckCircle2", "descripcion": "Condiciones, alcances funcionales y rendimiento" },
+  { "id": "actualizaciones", "titulo": "Información del Sistema", "icono": "Globe", "descripcion": "Versión, cambios relevantes y estructura escalable" }
+]
 
