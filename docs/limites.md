@@ -4,7 +4,7 @@
 
 - **DNI:** Exactamente 13 dígitos con formato `####-####-#####`
 - **RTN:** Exactamente 14 dígitos con formato `####-####-######`
-- **Códigos de cotización:** `COT-XXX` (numérico secuencial, 3 dígitos)
+- **Códigos de cotización:** `C-XXX` (numérico secuencial, mínimo 3 dígitos)
 - **Códigos de paquete:** `P-XXX` (numérico secuencial, 3 dígitos)
 - **Códigos de actividad:** `A-XXX` (numérico secuencial, 3 dígitos)
 
