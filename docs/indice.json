@@ -76,5 +76,11 @@
     "titulo": "Asistente (IA)",
     "icono": "Sparkles",
     "descripcion": "Compañero de viajes: Q&A, cotizaciones, banco de imágenes y reglas de costo"
+  },
+  {
+    "id": "arquitectura",
+    "titulo": "Arquitectura del Proyecto",
+    "icono": "Code",
+    "descripcion": "Diagrama completo del proyecto Base44 y el rol de la estación de trabajo (Tower)"
   }
 ]
