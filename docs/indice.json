@@ -82,5 +82,11 @@
     "titulo": "Arquitectura del Proyecto",
     "icono": "Code",
     "descripcion": "Diagrama completo del proyecto Base44 y el rol de la estación de trabajo (Tower)"
+  },
+  {
+    "id": "outputs-integridad-versiones-2026-09-05",
+    "titulo": "Outputs: integridad y versiones",
+    "icono": "CheckCircle2",
+    "descripcion": "Correcciones del 05/09/2026, alcance, historial y comprobaciones pendientes"
   }
 ]
